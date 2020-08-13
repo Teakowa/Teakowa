@@ -4,7 +4,7 @@ Hi there 👋
 
 > Do meaningful things with interesting people.
 
-This is Teakowa Gatanothor O'deorain from China, base in Chengdu.
+This is Teakowa Gatanothor O'deorain.
 
-I'm a Cloud and Platform Engineer at UnionMusic
+I'm a cloud and platform infrastructure consultant.
 
