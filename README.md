@@ -8,3 +8,6 @@ This is Teakowa Gatanothor O'deorain.
 
 I'm a cloud and platform infrastructure consultant.
 
+📊 **This week I spent my time on**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
