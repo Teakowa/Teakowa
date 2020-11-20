@@ -6,7 +6,7 @@ Hi there 👋
 
 This is Teakowa Gatanothor O'deorain.
 
-I'm a cloud and platform infrastructure consultant.
+I'm a cloud and platform architecture consultant.
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
