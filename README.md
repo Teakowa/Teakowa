@@ -8,6 +8,12 @@ This is Teakowa Gatanothor O'deorain.
 
 I'm a cloud and platform architecture consultant.
 
+My Wechat ID
+
+```
+echo -n 'dGVha293YQ==' | base64 -d
+```
+
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
