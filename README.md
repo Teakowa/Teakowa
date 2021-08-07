@@ -17,6 +17,6 @@ echo -n 'dGVha293YQ==' | base64 -d
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+YAML        9 mins          ██████████████████████▓░░   90.04 % 
 ```
 <!--END_SECTION:waka-->
