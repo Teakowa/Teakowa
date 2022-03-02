@@ -18,10 +18,9 @@ echo -n 'dGVha293YQ==' | base64 -d
 <!--START_SECTION:waka-->
 
 ```text
-JSON         9 mins          ██████████████████████░░░   88.61 %
-tsconfig     1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-PHP          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JSON         9 mins          ██████████████████████░░░   88.34 %
+tsconfig     1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
+TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 ```
 
 <!--END_SECTION:waka-->
