@@ -14,6 +14,14 @@ My Wechat ID
 echo -n 'dGVha293YQ==' | base64 -d
 ```
 
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Teakowa&column=8&theme=radical&no-frame=true&no-bg=true"/>
+</a>
+
+![Teakowa Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Teakowa&theme=nord_bright)
+![Teakowa Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Teakowa&theme=nord_bright)
+
+
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 
