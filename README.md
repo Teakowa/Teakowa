@@ -26,9 +26,11 @@ echo -n 'dGVha293YQ==' | base64 -d
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   0 secs          █████████████████████▓░░░   86.90 %
-YAML         0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
-Terraform    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Terraform    37 mins         ██████████████████▒░░░░░░   72.81 %
+Text         7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 %
+HCL          6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
