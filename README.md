@@ -26,12 +26,7 @@ echo -n 'dGVha293YQ==' | base64 -d
 <!--START_SECTION:waka-->
 
 ```text
-YAML             1 hr 7 mins     █████████░░░░░░░░░░░░░░░░   35.45 %
-PHP              1 hr 2 mins     ████████▒░░░░░░░░░░░░░░░░   32.68 %
-Terraform        50 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.23 %
-JSON             3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-Text             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
