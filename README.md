@@ -7,8 +7,7 @@ Hi there 👋
 
 This is Teakowa.
 
-I'm a cloud and platform architecture consultant. Co-founder of @XNXKTech Cloud and Platform Architecture Consultant | Technical Consultant of @UnionMusic
-
+I'm Co-founder of [@XNXKTech](https://github.com/XNXKTech), responsible for the day-to-day management of the company and overseeing product development, as well as being a Cloud and Platform Architecture Consultant.
 
 My Wechat ID
 
@@ -22,6 +21,12 @@ echo -n 'dGVha293YQ==' | base64 -d
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=teakowa&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=8"/>
 </a>
+
+<details>
+  <summary>Now playing on Spotify</summary>
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ordinary89&cover_image=true&theme=default&bar_color=1fec18&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+</details>
 
 <details>
   <summary>This week I spent my time on</summary>
@@ -39,4 +44,4 @@ Go                         20 mins         ▓░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-<details>
+</details>
