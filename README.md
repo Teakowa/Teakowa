@@ -35,12 +35,12 @@ echo -n 'dGVha293YQ==' | base64 -d
 <!--START_SECTION:waka-->
 
 ```text
-YAML           5 hrs 59 mins   ███████████████▓░░░░░░░░░   63.15 %
-Terraform      1 hr 25 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.12 %
-Docker         48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
-Markdown       24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
-Direnv File    15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
-SmartyConfig   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+YAML                       7 hrs 2 mins    ██████████████████▓░░░░░░   74.89 %
+Terraform                  1 hr 17 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 %
+Docker                     32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+JSON                       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Docker File                6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Markdown                   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 ```
 
 <!--END_SECTION:waka-->
