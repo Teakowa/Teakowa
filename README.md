@@ -35,8 +35,7 @@ echo -n 'dGVha293YQ==' | base64 -d
 <!--START_SECTION:waka-->
 
 ```text
-Terraform   0 secs          ███████████████████████▓░   94.51 %
-YAML        0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
