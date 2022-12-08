@@ -7,7 +7,7 @@ Hi there 👋
 
 This is Teakowa.
 
-I'm Co-founder of [@XNXKTech](https://github.com/XNXKTech), responsible for the day-to-day management of the company and overseeing product development, as well as being a Cloud and Platform Architecture Consultant.
+I'm Founder of [@Bytefloat](https://github.com/Bytefloat) and Co-founder of [@XNXKTech](https://github.com/XNXKTech), From November 2021 to December 2022, as XNXKTech's CIO will be responsible for managing the company and overseeing product development, also a Cloud and Platform Architecture Consultant.
 
 My Wechat ID
 
