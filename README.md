@@ -35,12 +35,7 @@ echo -n 'dGVha293YQ==' | base64 -d
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript    2 hrs 13 mins   ████████████████▒░░░░░░░░   65.10 %
-Text          17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
-textmate      13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
-Docker        10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
-YAML          9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-Direnv File   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
