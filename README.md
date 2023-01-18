@@ -35,11 +35,7 @@ echo -n 'dGVha293YQ==' | base64 -d
 <!--START_SECTION:waka-->
 
 ```text
-Docker   11 mins         ███████████████▒░░░░░░░░░   61.52 %
-YAML     4 mins          ██████░░░░░░░░░░░░░░░░░░░   24.62 %
-JSON     2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.40 %
-Prisma   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
