@@ -53,12 +53,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Go            6 mins          █████████▓░░░░░░░░░░░░░░░   38.59 %
-Direnv File   4 mins          ███████▒░░░░░░░░░░░░░░░░░   29.42 %
-Bash          2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
-TypeScript    1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
-.env file     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
-Docker        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
