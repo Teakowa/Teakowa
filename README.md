@@ -53,8 +53,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown    8 mins          ███████████████████░░░░░░   75.79 %
-Terraform   2 mins          ██████░░░░░░░░░░░░░░░░░░░   24.21 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
