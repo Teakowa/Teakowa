@@ -53,8 +53,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go     0 secs          ███████████████████████▓░   94.67 %
-YAML   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
