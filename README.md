@@ -53,9 +53,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Swift          16 mins         █████████████████████░░░░   83.99 %
-ActionScript   3 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.73 %
-Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+ActionScript   0 secs          █████████████████████░░░░   84.04 %
+Other          0 secs          ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
 ```
 
 <!--END_SECTION:waka-->
