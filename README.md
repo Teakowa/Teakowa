@@ -53,8 +53,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-ActionScript   0 secs          █████████████████████░░░░   84.04 %
-Other          0 secs          ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
+ActionScript   0 secs          ██████████████████░░░░░░░   71.94 %
+Objective-C    0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.40 %
+Other          0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 %
 ```
 
 <!--END_SECTION:waka-->
