@@ -53,8 +53,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other        1 hr 27 mins    ████████████████████░░░░░   80.49 %
-SSH Config   21 mins         █████░░░░░░░░░░░░░░░░░░░░   19.51 %
+Other        1 hr 41 mins    ████████████████████▓░░░░   82.78 %
+SSH Config   21 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.22 %
 ```
 
 <!--END_SECTION:waka-->
