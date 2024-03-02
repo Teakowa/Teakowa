@@ -53,10 +53,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other        17 mins         █████████████████▓░░░░░░░   70.86 %
-JavaScript   4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.03 %
-SSH Config   2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+JavaScript   4 mins          █████████████████████░░░░   84.09 %
+Other        0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
+TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 ```
 
 <!--END_SECTION:waka-->
