@@ -53,11 +53,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other                      10 hrs 33 mins  ███████████████░░░░░░░░░░   59.58 %
-YAML                       3 hrs 37 mins   █████░░░░░░░░░░░░░░░░░░░░   20.47 %
-Nginx configuration file   1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
-Swift                      1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
-Git Config                 19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Other                      7 hrs 22 mins   ██████████████▓░░░░░░░░░░   58.03 %
+YAML                       2 hrs 44 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.55 %
+Nginx configuration file   1 hr 11 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
+Swift                      21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+Git Config                 19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
 ```
 
 <!--END_SECTION:waka-->
