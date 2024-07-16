@@ -53,8 +53,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Swift   34 mins         ██████████████████████▓░░   90.68 %
-Git     3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
