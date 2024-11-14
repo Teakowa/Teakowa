@@ -53,11 +53,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other        0 secs          ██████████████████▒░░░░░░   73.22 %
-Bash         0 secs          ██████▒░░░░░░░░░░░░░░░░░░   24.77 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
